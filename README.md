@@ -1,1 +1,1 @@
-# KDD
+Pima Indian Diabetes Database Analysis – The dataset consisted of Native Americans living in an area of central and southern Arizona. Based on the dataset, I was able to predict whether a patient would be diagnosed with diabetes or not based on different parameters. The data analysis techniques involved creating visualizations, interpreting models using histograms, scatter plots, to uncover rationale for higher number of diabetic patients amongst the Pima Indian women.
